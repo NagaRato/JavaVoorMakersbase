@@ -1,5 +1,5 @@
 #1. Console applicaties
-## 1a Het eerste programmaatje
+## 1a Het eerste programma
 Klik links met je rechtermuisknop op de map en kies in het contextmenu op 'New' en dan op 'Java class...', er verschijnt een popup waarin gevraagd wordt om de naam van de klasse, vul hiervoor 'main' in. Er verschijnt een bestand waarin al tekst staat en waar we tekst aan gaan toevoegen. Voeg direct onder de regel die begint met ´public' de volgende tekst toe (inclusief de witruimte aan het begin van de regels):
 ```
     public static void main(String[] args) {
@@ -22,11 +22,13 @@ Het programma wordt gestart en onderin het beeld verschijnt het resultaat in tek
 
 ![](console.png)
 
-Je eerste programmaatje is een feit!
+Je eerste programma is een feit!
 
 ## 1c Wat hebben we nu eigenlijk gedaan?
-Kort samengevat hebben we bij 1a een heel klein programmaatje geschreven en bij 1b hebben we instellingen gedaan waarmee de compiler weet waar hij het programma moet beginnen.
+Kort samengevat hebben we bij 1a een heel klein programma geschreven en bij 1b hebben we instellingen gedaan waarmee de compiler weet waar hij het programma moet beginnen.
 
 Computers kunnen diep van binnen eigenlijk alleen 0'en en 1'en aan. Een programma zoals wij zojuist bij 1a hebben geschreven is niet iets wat computers begrijpen, laat staan kunnen uitvoeren. Om te zorgen dat het begrepen wordt door computers moeten we het eerst compileren. Dat is best handig want als we iets gemaakt hebben wat de computer niet gaat begrijpen geeft de compiler dit direct aan.
 
-Programma's zijn eigenlijk niet meer dan instructies voor de computer, maar ze worden niet van boven naar beneden gelezen en uitgevoerd. Als je zou willen kun je in het midden beginnen (wordt het wel wat overzichtelijk van), delen overslaan, herhalen, tussendoor van alles opslaan en aanpassen, keuzes maken en zelfs instructies uit andere bestanden laten uitvoeren. Hierover later meer.
+Programma's zijn eigenlijk niet meer dan instructies voor de computer, maar ze worden niet van boven naar beneden gelezen en uitgevoerd. Als je zou willen kun je in het midden beginnen (wordt het wel wat onoverzichtelijk van), laten pauzeren, delen overslaan, herhalen, tussendoor van alles opslaan en aanpassen, keuzes maken en zelfs instructies uit andere bestanden laten uitvoeren. Hierover later meer.
+
+Het programma wat we hebben geschreven bij 1a bestaat uit 1 methode, een methode is een onderdeel van een programma dat vanaf het begin van die methode wordt uitgevoerd tot het einde. Onze methode heeft een ´head' en een 'body'. De head bestaat over het algemeen uit 1 regel, bij ons programma is dat regel 4. Ons programma is nog niet zo lang en heeft maar 1 instructie, die staat op regel 5.
