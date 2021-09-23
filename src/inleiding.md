@@ -1,6 +1,6 @@
 #Java programmeren van 10 tot 16 jaar
 
-Ooit maakte Sun vooral televisies en dergelijke. De die daarin zit draaide steeds op verschillende hardware en dat was niet handig. Iemand heeft toen een soort programmaatje geschreven wat werkte als een soort tussenlaag, waarop alle software voor die televisies kon draaien en op alle verschillende hardware die zij maakten. Deze tussenlaag zorgde dat je als programmeur niet meer hoefde na te denken over die verschillen, je hoefde alleen nog rekening te houden met dat tussenlaagje. Tegenwoordig heet dat tussenlaagje de JRE, de java runtime environment en de taal waarmee ja daarop programmeert heet java.
+Ooit maakte Sun vooral televisies en dergelijke. De software die daarin zit draaide steeds op verschillende hardware en dat was niet handig. Iemand heeft toen een soort programmaatje geschreven wat werkte als een soort tussenlaag, waarop alle software voor die televisies kon draaien en op alle verschillende hardware die zij maakten. Deze tussenlaag zorgde dat je als programmeur niet meer hoefde na te denken over die verschillen, je hoefde alleen nog rekening te houden met dat tussenlaagje. Tegenwoordig heet dat tussenlaagje de JRE, de java runtime environment en de taal waarmee ja daarop programmeert heet java.
 
 Gevolg is dat java vrij stabiel draait op heet veel verschillende hardware, niet alleen computers maar ook bijvoorbeeld telefoons, horloges maar ook grote machines en servers.
 
